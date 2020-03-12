@@ -19,6 +19,8 @@
                                     <db.user>root</db.user>
                                     <db.pass>1234</db.pass>
                                     <db.name>object</db.name>
+                                    <db.host>localhostt</db.host>
+                                    <db.port>3306</db.port>
 	</properties>
 
 	<dependencies>
