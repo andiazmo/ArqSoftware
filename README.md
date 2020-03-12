@@ -1,29 +1,25 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+In this repo you can find a project made in Netbeans 11.3 with spring boot framework to backend service and JPA repository to connect to mysql database.
+This project is conformed by simple CRUD backend and simple entity that represent an object with id, name and value.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* See how implement swagger
+* See how implement JPA with mysql
+* See simple example of spring boot CRUD
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* Get any java IDE
+* Clone this repo
+* Open project in your IDE
+* Start mysql local server with root:1234
+* Clean the project
+* Run project and enjoy it
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+I create this repo because in my job i need have a template to start with backend JAVA service.
+I thonk that swagger is a powerful tools to check your project and avoid use postman or soap ui application
+
