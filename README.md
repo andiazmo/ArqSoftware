@@ -15,7 +15,9 @@ This project is conformed by simple CRUD backend and simple entity that represen
 * Clone this repo
 * Open project in your IDE
 * Start mysql local server with root:1234
+* Create Database "object" with the next table: object{id:INT, name:String, value:String}
 * Clean the project
+* The swagger api url is 
 * Run project and enjoy it
 
 ### Who do I talk to? ###
