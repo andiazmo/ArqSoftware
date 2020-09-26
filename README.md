@@ -17,6 +17,7 @@ This project is conformed by simple CRUD backend and simple entity that represen
 * Start mysql local server with root:1234
 * Create Database "object" with the next table: object{id:INT, name:String, value:String}
 * Clean the project
+* run mave -> spring-boot:run
 * The swagger api url is http://localhost:8080/swagger-ui.html
 * Run project and enjoy it
 
