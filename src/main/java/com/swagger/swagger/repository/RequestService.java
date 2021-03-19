@@ -5,13 +5,12 @@
  */
 package com.swagger.swagger.repository;
 
-import com.swagger.swagger.entity.object;
-import org.springframework.data.jpa.repository.JpaRepository;
-
 /**
  *
- * @author root
+ * @author Anyelo
  */
-public interface objectrepo extends JpaRepository<object,Long>{
+public interface RequestService {
+   
+   // String
     
 }
